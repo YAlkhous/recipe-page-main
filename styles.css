@@ -5,7 +5,7 @@
 }
 
 html {
-  font-size: 125%;
+  font-size: 150%;
 }
 
 body {
@@ -13,6 +13,9 @@ body {
   background-color: hsl(30, 54%, 90%);
   font-family: "outfit", sans-serif;
   font-size: 0.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .main-container {
